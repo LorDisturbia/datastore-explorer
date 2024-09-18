@@ -1,0 +1,17 @@
+{
+  "name": "datastore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/datastore": "9.0.0",
+    "lodash": "^4.17.21"
+  }
+}
